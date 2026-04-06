@@ -51,7 +51,7 @@ export default function Page() {
         <section className="hero">
           <div className="heroText">
             <div className="kicker">Calm tools for facilitators, coaches, and workshop hosts</div>
-            <h1>FaciliAid; a home for tools that help sessions run smoother.</h1>
+            <h1>FaciliAid - a home for tools that help sessions run smoother.</h1>
             <p className="lead">
               FaciliAid is a growing collection of focused tools for facilitation. Some are built
               here, some point to trusted external resources, all are meant to reduce friction and
